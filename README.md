@@ -1,4 +1,4 @@
-# Apriori_Agorithm_implementation_and_Custom_Data_Cleaning_Code
+# Apriori_Algorithm_implementation_and_Custom_Data_Cleaning_Code
 This repository contains a jupyter notebook with code for 2 exercises:
 
 1. Webscraping and data cleaning of the data from the website: http://www.nuforc.org/webreports/ndxlTX.html
